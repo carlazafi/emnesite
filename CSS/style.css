@@ -177,7 +177,7 @@ img {
 }
 
 .burger {
-  font-size: 30px;
+  font-size: 35px;
   cursor: pointer;
 }
 
@@ -295,5 +295,9 @@ section {
     display: grid;
     grid-template-columns: 2fr 1fr;
     align-items: center;
+  }
+
+  .img_menu {
+    display: none;
   }
 }
