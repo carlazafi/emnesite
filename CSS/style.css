@@ -198,6 +198,8 @@ img {
   background: #cba2ec;
   padding: 25px;
   border-radius: 10px;
+
+  min-width: 220px;
 }
 
 .menu a {
@@ -213,6 +215,10 @@ img {
 
 #menu-toggle:checked + .burger + .menu {
   display: flex;
+}
+
+.img_menu {
+  width: 50px;
 }
 
 /* ---------------- LISTS ---------------- */
