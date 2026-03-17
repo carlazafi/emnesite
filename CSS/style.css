@@ -88,6 +88,10 @@ p {
   margin-bottom: 15px;
 }
 
+.h1_theloop {
+  padding-bottom: 2px;
+}
+
 /* ---------------- IMAGES ---------------- */
 
 img {
@@ -221,7 +225,7 @@ img {
   width: 50px;
 }
 
-/* ---------------- LISTS ---------------- */
+/* ---------------- LISTER ---------------- */
 
 ul {
   list-style: none;
@@ -270,6 +274,10 @@ details p {
 
 section {
   margin-bottom: 40px;
+}
+
+.textalign_theloop {
+  text-align: center;
 }
 
 /* ---------------- WEBSITE ---------------- */
